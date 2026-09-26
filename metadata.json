@@ -1,0 +1,6 @@
+{
+  "name": "VisionPulse - AI Image Recognition System",
+  "description": "Professional computer vision and object recognition platform featuring real-time detection, bounding box localization, confidence scoring, VLM scene intelligence, OpenCV laboratory, and Docker deployment architecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
